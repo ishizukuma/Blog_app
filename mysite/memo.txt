@@ -1,0 +1,7 @@
+'django-insecure-)v_$^czh$dxdk3ec_4oxq01=q@rps6k8^0=8_(o(trhy*49$qw'
+
+仮想環境の準備
+.\venv\Scripts\activate
+
+必要なライブラリ
+pip install janome
