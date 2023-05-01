@@ -1,6 +1,12 @@
 # Blog アプリケーション
 ## venv_private_diary
 **日記の作成**と**チャットボット**との会話ができるWebアプリケーションです。
+mysite/myapp　から主に私の作成したコードを確認できます。
+forms.py
+models.py
+my_chat_bot.py
+urls.py
+views.py
 
 タイトルと本文に加え写真も保存することができ、その日の出来事や思い出を残すことができます。
 
